@@ -88,5 +88,9 @@ public class HBUtils {
 		}
 		return null;
 	}
+	
+	public static boolean removeCustomer(){
+		return false;
+	}
 
 }
