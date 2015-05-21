@@ -90,6 +90,7 @@ public class HBUtils {
 	}
 	
 	public static boolean removeCustomer(){
+		//akhil to implement
 		return false;
 	}
 
